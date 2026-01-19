@@ -1,0 +1,19 @@
+		Java Multispeciality Hospital
+		Address: Java nagar
+		Ph: 9988774433
+Date & Time: 19-01-2026 07:56:38
+--------------------------------------------------
+PATIENT NAME  : Jdk
+PATIENT AGE   : 99
+--------------------------------------------------
+MEDICINE----->QTY----->PRICE----->TOTAL
+--------------------------------------------------
+paracitamol----->10----->2.0----->20.0
+amoxyline----->10----->2.0----->20.0
+--------------------------------------------------
+TOTAL AMOUNT : 40.0
+PAYMENT MODE : upi
+PAYMENT STATUS : Done
+--------------------------------------------------
+
+			Doctor's Signature
